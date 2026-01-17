@@ -1,42 +1,3 @@
-```md
-# 🎯 YouTube Homepage Focus (Toggle)
-
-**Search YouTube without getting hijacked by clickbait thumbnails.**
-
-YouTube Homepage Focus is a lightweight Chrome extension that automatically blurs distracting thumbnails on the YouTube homepage — while keeping the **search box fully visible** so you can stay intentional and focused.
-
----
-
-## ✨ Why This Extension Exists
-
-You open YouTube to **search something specific**…  
-But end up watching random videos because thumbnails steal your attention.
-
-This extension fixes that.
-
----
-
-## 🚀 Features
-
-- ✅ **Default ON** – blur is enabled automatically on load
-- 🔘 **Toggle anytime** from the extension popup
-- 🔍 **Search bar always visible** (never blurred)
-- 🖱️ **Hover to preview thumbnails**
-- 🏠 Works only on **homepage & feeds**
-- ⚡ Lightweight, fast, and privacy-friendly
-- 🧠 Designed for focus, not restriction
-
----
-
-## 🖼️ How It Works
-
-1. Open **YouTube Homepage**
-2. Thumbnails are blurred automatically
-3. Use the **search bar distraction-free**
-4. Hover thumbnails only if you *intentionally* want to see them
-5. Toggle ON/OFF anytime from the popup
-
----
 
 ## 📦 Installation (Developer Mode)
 
@@ -53,6 +14,18 @@ chrome://extensions/
 6. (Optional) Pin the extension for quick access
 
 ---
+
+## 🖼️ How It Works
+
+1. Open **YouTube Homepage**
+2. Thumbnails are blurred automatically
+3. Use the **search bar distraction-free**
+4. Hover thumbnails only if you *intentionally* want to see them
+5. Toggle ON/OFF anytime from the popup
+
+---
+
+
 
 ## 🧩 Extension Behavior
 
@@ -154,7 +127,3 @@ MIT License – free to use, modify, and distribute.
 
 ---
 
-**Focus first. Thumbnails later.**
-```
-
----
