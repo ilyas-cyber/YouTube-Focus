@@ -1,0 +1,19 @@
+
+.blur-youtube-thumbnails ytd-thumbnail,
+.blur-youtube-thumbnails yt-img-shadow,
+.blur-youtube-thumbnails #thumbnail,
+.blur-youtube-thumbnails ytd-rich-item-renderer {
+  filter: blur(15px) !important;
+}
+
+#search,
+#search-input,
+#search-icon-legacy,
+ytd-searchbox {
+  filter: none !important;
+}
+
+.blur-youtube-thumbnails ytd-thumbnail:hover,
+.blur-youtube-thumbnails yt-img-shadow:hover {
+  filter: blur(0px) !important;
+}
